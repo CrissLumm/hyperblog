@@ -21,3 +21,22 @@ body
 {
     font-size: 20px;
 }
+
+#header
+{
+    background: #33a;
+    box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+
+}
+
+#header #tagline 
+{
+    font-weight:normal ;
+    font-size: 0.8em;
+    padding-left: 0 0 0 1em;
+}
